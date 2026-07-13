@@ -11,8 +11,8 @@ Website:
 https://marah.freedev.app/?i=1
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTM
+- CSS
 - JavaScript
 - PHP
 - MySQL
