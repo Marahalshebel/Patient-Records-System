@@ -6,6 +6,9 @@ A simple web application for managing patient records using HTML, CSS, JavaScrip
 The application allows users to add patient information, store it in a MySQL database, display all records dynamically, and update each patient's status without refreshing the webpage.
 The project was developed using front-end and back-end web technologies and deployed using InfinityFree.
 
+## Live Demo
+Website:
+https://marah.freedev.app/?i=1
 
 ## Technologies Used
 - HTML5
